@@ -36,7 +36,10 @@
   "resources":[
     {"id":{"name":"obj_giraffe","path":"objects/obj_giraffe/obj_giraffe.yy",},},
     {"id":{"name":"GameRoom","path":"rooms/GameRoom/GameRoom.yy",},},
+    {"id":{"name":"Combined_Sheet","path":"sprites/Combined_Sheet/Combined_Sheet.yy",},},
     {"id":{"name":"Giraffe_Sheet","path":"sprites/Giraffe_Sheet/Giraffe_Sheet.yy",},},
+    {"id":{"name":"Grass_Backdrop","path":"sprites/Grass_Backdrop/Grass_Backdrop.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
